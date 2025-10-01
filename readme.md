@@ -1,11 +1,13 @@
-<h1><img src="./img/Untitled.jpg" weight="25"> Projets numéro 2 sur les listes </h1>
+<h1><img src="./img/Untitled.jpg" width="25"> Projets numéro 2 sur les listes </h1>
 <p> Les listes chaînées sont des structures de données dynamiques permettant de stocker plusieurs éléments sans connaître le nombre d'éléments à l'avance. Ici, nous allons avoir les listes simplement et doublement chainées.</p>
 
 <h3> Structure d'une liste chaînée</h3>
 <p>Une liste chaînée est composée de noeuds.</p>
 <p>Chaque noeud comporte :</p>
-<p>Une donnée </p>
-<p>Un pointeur</p>
+<ul>
+<li>Une donnée </li>
+<li>Un pointeur</li>
+</ul>
 <h3>Opérations de base</h3>
 <ul>
 <li>Lecture des éléments</li>
